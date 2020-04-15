@@ -1,3 +1,3 @@
 ああああああああああああああああ
 
-![](eyecatch2.png)
+![](eimage/yecatch2.png)
